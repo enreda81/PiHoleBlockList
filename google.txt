@@ -1,0 +1,9 @@
+127.0.0.1 www.google-analytics.com
+127.0.0.1 adwords.google.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 adservices.google.com
+127.0.0.1 imageads.googleadservices.com
+127.0.0.1 imageads1.googleadservices.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 apps5.oingo.com
