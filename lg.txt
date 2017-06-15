@@ -1,0 +1,6 @@
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 yumenetworks.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartclip.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 ibis.lgappstv.com

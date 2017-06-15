@@ -1,0 +1,17 @@
+0.0.0.0 app.market.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 mazu.sec.miui.com
+0.0.0.0 adv.sec.miui.com
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 visitor-language.herokuapp.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 everyplay.com
+0.0.0.0 fast.wistia.com
+0.0.0.0 famo.us
+0.0.0.0 use.typekit.net
+0.0.0.0 shenghuo.xiaomi.com
+0.0.0.0 app.top1mobiad1.com
