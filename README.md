@@ -17,4 +17,4 @@ Feel free to use them in PiHole or in your hosts file.
 
 # What's next?
 
-I'll follow adding more domains in the near future.
+I'll continue adding more domains in the near future.
