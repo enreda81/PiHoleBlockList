@@ -7,3 +7,9 @@
 127.0.0.1 imageads1.googleadservices.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 apps5.oingo.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.ssl.google-analytics.com
+127.0.0.1 statcounter.com
+127.0.0.1 www.statcounter.com
+127.0.0.1 c.statcounter.com
+127.0.0.1 www.c.statcounter.com
