@@ -1,15 +1,12 @@
-127.0.0.1 www.google-analytics.com
-127.0.0.1 adwords.google.com
-127.0.0.1 pagead.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 adservices.google.com
-127.0.0.1 imageads.googleadservices.com
-127.0.0.1 imageads1.googleadservices.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 apps5.oingo.com
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.ssl.google-analytics.com
-127.0.0.1 statcounter.com
-127.0.0.1 www.statcounter.com
-127.0.0.1 c.statcounter.com
-127.0.0.1 www.c.statcounter.com
+google-analytics.com
+adwords.google.com
+pagead.googlesyndication.com
+pagead2.googlesyndication.com
+adservices.google.com
+imageads.googleadservices.com
+imageads1.googleadservices.com
+googleadservices.com
+apps5.oingo.com
+ssl.google-analytics.com
+statcounter.com
+c.statcounter.com
